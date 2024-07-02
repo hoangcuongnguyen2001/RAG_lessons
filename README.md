@@ -1,1 +1,1 @@
-# RAG_lessons
+# Lessons about Retrieval Augmented Generation
