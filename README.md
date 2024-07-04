@@ -1,6 +1,7 @@
 # Lessons about Retrieval Augmented Generation
 
-**English**
+**English:**
+
 This is a compilation of notebooks about Retrieval Augmented Generation (RAG); in which LlamaIndex will be used as an orchestrator for Llama 3 to understand documents.
 The questions are in Vietnamese; the documents are written in either Vietnamese or English.
 
