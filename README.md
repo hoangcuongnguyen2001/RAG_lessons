@@ -6,7 +6,7 @@ This is a compilation of notebooks about Retrieval Augmented Generation (RAG); i
 The questions are in Vietnamese; the documents are written in either Vietnamese or English.
 
 There would be 3 parts for our analysis:
-- Native RAG system;
+- Naive RAG system;
 - Pre-retrieval and in-retrieval optimization for RAG;
 - Post-retrieval optimization for RAG (using ColBERT reranker).
 
